@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Aquí deberías agregar la lógica de validación de datos, como verificar si se proporcionaron los campos requeridos, etc.
 
     // Conexión a la base de datos (reemplaza con tus propios datos de conexión)
-    $servername = "localhost";
+    $servername = "localhost:3307";
     $username = "root";
     $password = "";
     $dbname = "n.g.d";
@@ -36,4 +36,3 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 ?>
-

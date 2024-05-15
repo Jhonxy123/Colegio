@@ -5,7 +5,7 @@
         public function __construct(){
         }
         function connect(){
-            $servername = "localhost";
+            $servername = "localhost:3307";
             $username = "root";
             $password = "";
             $dbname = "n.g.d";
