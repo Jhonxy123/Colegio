@@ -48,7 +48,7 @@ CREATE TABLE nota(
 INSERT profesor VALUE(100,'Jose Luis','jose1@gmail.com','1975-02-23','1');
 INSERT profesor VALUE(101,'Maria Jimenez','maria1@gmail.com','1980-03-14','1');
 INSERT profesor VALUE(102,'Andres Parra','andres1@gmail.com','1982-05-21','1');
-INSERT profesor VALUE(103,'Nelly Palma','nelly1@gmail.com'),'1978-07-03','1';
+INSERT profesor VALUE(103,'Nelly Palma','nelly1@gmail.com','1978-07-03','1');
 INSERT profesor VALUE(104,'Oscar Prado','oscar1@gmail.com','1965-08-18','1');
 
 #asignatura
